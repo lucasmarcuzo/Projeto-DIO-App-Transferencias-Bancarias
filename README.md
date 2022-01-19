@@ -1,2 +1,4 @@
-# Projeto-DIO-App-Transferencias-Bancarias
-Criando um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos em C# &amp; .NET.
+<h1>Projeto - Criando uma aplicação de transferências bancárias com .NET.</h1>
+
+<H2>- Criando um app de tranferências bancárias com C# e .NET.</h2>
+
